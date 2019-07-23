@@ -1,0 +1,14 @@
+#game {
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    background-color: #ffffff;
+}
+
+.block {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
